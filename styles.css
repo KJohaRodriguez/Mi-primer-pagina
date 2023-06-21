@@ -127,7 +127,7 @@ a {
         width: 50%;
         height: 50%;
         top: 70px;
-        left: 100px;
+        left: 0;
         flex-direction: column;
         padding-top: 100px;
         align-items: center;
